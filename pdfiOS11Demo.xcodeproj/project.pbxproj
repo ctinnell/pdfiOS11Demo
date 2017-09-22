@@ -14,6 +14,7 @@
 		849822BE1F7538600059FEBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849822BC1F7538600059FEBB /* LaunchScreen.storyboard */; };
 		849822C91F7538600059FEBB /* pdfiOS11DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849822C81F7538600059FEBB /* pdfiOS11DemoTests.swift */; };
 		849822D41F7538600059FEBB /* pdfiOS11DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849822D31F7538600059FEBB /* pdfiOS11DemoUITests.swift */; };
+		849822E21F753B630059FEBB /* syllabus.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 849822E11F7539C40059FEBB /* syllabus.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		849822CF1F7538600059FEBB /* pdfiOS11DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pdfiOS11DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		849822D31F7538600059FEBB /* pdfiOS11DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pdfiOS11DemoUITests.swift; sourceTree = "<group>"; };
 		849822D51F7538600059FEBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849822E11F7539C40059FEBB /* syllabus.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = syllabus.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				849822BA1F7538600059FEBB /* Assets.xcassets */,
 				849822BC1F7538600059FEBB /* LaunchScreen.storyboard */,
 				849822BF1F7538600059FEBB /* Info.plist */,
+				849822E11F7539C40059FEBB /* syllabus.pdf */,
 			);
 			path = pdfiOS11Demo;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				849822BE1F7538600059FEBB /* LaunchScreen.storyboard in Resources */,
 				849822BB1F7538600059FEBB /* Assets.xcassets in Resources */,
 				849822B91F7538600059FEBB /* Main.storyboard in Resources */,
+				849822E21F753B630059FEBB /* syllabus.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
